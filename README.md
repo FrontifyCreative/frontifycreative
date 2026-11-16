@@ -50,8 +50,8 @@ Here are the tools and technologies we use to build awesome products:
 Have an exciting project in mind? Let's talk!
 
 *   🌐 **Website:** [frontifycreative.com](https://frontifycreative.com)
-*   📧 **Email:** [hello@frontifycreative.com](mailto:hello@frontifycreative.com)
-*   📷 **Instagram:** [@frontifycreative](https://instagram.com/frontifycreative)
+*   📧 **Email:** [hello@frontifycreative.com](mailto:frontify.creative@gmail.com)
+*   📷 **Instagram:** [@frontifycreative](https://instagram.com/frontifycreative_)
 
 ---
 <div align="center">
