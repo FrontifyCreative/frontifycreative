@@ -1,19 +1,21 @@
 <div align="center">
-  <!-- Kamu bisa mengganti URL di bawah dengan link logo Frontify Creative milikmu -->
-  <img src="https://via.placeholder.com/150/000000/FFFFFF/?text=Frontify+Creative" alt="Frontify Creative Logo" width="150" />
+  <!-- Banner Header Frontify Creative -->
+  <img src="https://raw.githubusercontent.com/[USERNAME]/[REPO_NAME]/main/[PATH_TO_IMAGE]/image_4.png" alt="Frontify Creative Banner" width="100%" />
+
+  <br />
 
   <h1>🚀 Frontify Creative</h1>
   <p><strong>Elevating Brands through Stunning Web Design & High-Performance Development</strong></p>
 
   <!-- Badges (Bisa disesuaikan dengan sosmed/kontak kalian) -->
   <a href="mailto:hello@frontifycreative.com"><img src="https://img.shields.io/badge/Email-Contact%20Us-blue?style=for-the-badge&logo=gmail" alt="Email" /></a>
-  <a href="https://yourwebsite.com"><img src="https://img.shields.io/badge/Website-Visit%20Us-success?style=for-the-badge&logo=google-chrome" alt="Website" /></a>
+  <a href="https://frontifycreative.com"><img src="https://img.shields.io/badge/Website-Visit%20Us-success?style=for-the-badge&logo=google-chrome" alt="Website" /></a>
 </div>
 
 <br />
 
 ## 👋 About Us
-Welcome to **Frontify Creative**! We are a passionate digital agency specializing in crafting tailored digital experiences. From pixel-perfect web designs to robust web development, we bring your ideas to life on the web. 
+Welcome to **Frontify Creative**! We are a passionate digital agency specializing in crafting tailored digital experiences. From pixel-perfect web designs to robust web development, we bring your ideas to life on the web.
 
 Whether you need a modern landing page, a complex web application, or an e-commerce platform, our team is ready to build it.
 
@@ -30,7 +32,7 @@ Here are the tools and technologies we use to build awesome products:
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6)
 
 **Frontend:**
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) 
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
 **Backend & CMS:**
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![WordPress](https://img.shields.io/badge/WordPress-%23117B85.svg?style=for-the-badge&logo=WordPress&logoColor=white)
@@ -45,9 +47,9 @@ Here are the tools and technologies we use to build awesome products:
 | **Project Gamma** | Custom web application with dashboard. | [View Project](#) |
 
 ## 📫 Let's Collaborate!
-Have an exciting project in mind? Let's talk! 
+Have an exciting project in mind? Let's talk!
 
-*   🌐 **Website:** [frontifycreative.com](https://yourwebsite.com)
+*   🌐 **Website:** [frontifycreative.com](https://frontifycreative.com)
 *   📧 **Email:** [hello@frontifycreative.com](mailto:hello@frontifycreative.com)
 *   📷 **Instagram:** [@frontifycreative](https://instagram.com/frontifycreative)
 
