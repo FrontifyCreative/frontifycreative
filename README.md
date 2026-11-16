@@ -1,13 +1,13 @@
 <div align="center">
-  <!-- Banner Header Frontify Creative -->
-  <img src="https://raw.githubusercontent.com/[USERNAME]/[REPO_NAME]/main/[PATH_TO_IMAGE]/image_4.png" alt="Frontify Creative Banner" width="100%" />
+  <!-- Menampilkan gambar resmi Frontify Creative -->
+  <img src="frontify.jpeg" alt="Frontify Creative - Code. Create. Inspire." width="100%" />
 
   <br />
 
   <h1>🚀 Frontify Creative</h1>
   <p><strong>Elevating Brands through Stunning Web Design & High-Performance Development</strong></p>
 
-  <!-- Badges (Bisa disesuaikan dengan sosmed/kontak kalian) -->
+  <!-- Badges Kontak -->
   <a href="mailto:hello@frontifycreative.com"><img src="https://img.shields.io/badge/Email-Contact%20Us-blue?style=for-the-badge&logo=gmail" alt="Email" /></a>
   <a href="https://frontifycreative.com"><img src="https://img.shields.io/badge/Website-Visit%20Us-success?style=for-the-badge&logo=google-chrome" alt="Website" /></a>
 </div>
