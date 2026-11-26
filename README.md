@@ -1,5 +1,5 @@
  <p align="center">
-  <img src="assets/frontifycreative.jpeg" width="160" alt="Frontify Creative Logo">
+  <img src="frontifycreative.jpeg" width="160" alt="Frontify Creative Logo">
 </p>
 
 <h1 align="center">Frontify Creative</h1>
