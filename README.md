@@ -1,59 +1,172 @@
-<div align="center">
-  <!-- Menampilkan gambar resmi Frontify Creative -->
-  <img src="frontify.jpeg" alt="Frontify Creative - Code. Create. Inspire." width="100%" />
+ <p align="center">
+  <img src="assets/frontifycreative.jpeg" width="160" alt="Frontify Creative Logo">
+</p>
 
-  <br />
+<h1 align="center">Frontify Creative</h1>
 
-  <h1>🚀 Frontify Creative</h1>
-  <p><strong>Elevating Brands through Stunning Web Design & High-Performance Development</strong></p>
+# ✳ Frontify Creative — Creative Digital Studio
 
-  <!-- Badges Kontak -->
-  <a href="mailto:hello@frontifycreative.com"><img src="https://img.shields.io/badge/Email-Contact%20Us-blue?style=for-the-badge&logo=gmail" alt="Email" /></a>
-  <a href="https://frontifycreative.com"><img src="https://img.shields.io/badge/Website-Visit%20Us-success?style=for-the-badge&logo=google-chrome" alt="Website" /></a>
-</div>
+**Code. Create. Inspire.**
 
-<br />
+Frontify Creative adalah sebuah Creative Digital Studio yang berfokus pada pengembangan website, desain antarmuka, dan pengalaman digital yang modern, responsif, serta fungsional.
 
-## 👋 About Us
-Welcome to **Frontify Creative**! We are a passionate digital agency specializing in crafting tailored digital experiences. From pixel-perfect web designs to robust web development, we bring your ideas to life on the web.
+Website ini dirancang sebagai platform profil studio digital sekaligus media untuk memperkenalkan layanan, menampilkan hasil karya, memperkenalkan tim kreatif, dan memudahkan calon klien mengajukan brief proyek secara langsung.
 
-Whether you need a modern landing page, a complex web application, or an e-commerce platform, our team is ready to build it.
-
-## 💡 Our Services
-*   🎨 **Web & UI/UX Design:** User-centric, modern, and engaging interfaces.
-*   💻 **Web Development:** Fast, responsive, and scalable websites using the latest technologies.
-*   📱 **Responsive Design:** Ensuring your site looks perfect on mobile, tablet, and desktop.
-*   🚀 **Performance Optimization:** Fast loading speeds and SEO-friendly structures.
-
-## 🛠️ Our Tech Stack
-Here are the tools and technologies we use to build awesome products:
-
-**Design:**
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6)
-
-**Frontend:**
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-
-**Backend & CMS:**
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![WordPress](https://img.shields.io/badge/WordPress-%23117B85.svg?style=for-the-badge&logo=WordPress&logoColor=white)
-
-## 📂 Featured Projects
-*Daftar proyek terbaik yang pernah kami kerjakan:*
-
-| Project Name | Description | Link |
-| :--- | :--- | :--- |
-| **Project Alpha** | E-commerce website for a local fashion brand. | [View Project](#) |
-| **Project Beta** | Modern company profile & landing page. | [View Project](#) |
-| **Project Gamma** | Custom web application with dashboard. | [View Project](#) |
-
-## 📫 Let's Collaborate!
-Have an exciting project in mind? Let's talk!
-
-*   🌐 **Website:** [frontifycreative.com](https://frontifycreative.com)
-*   📧 **Email:** [hello@frontifycreative.com](mailto:frontify.creative@gmail.com)
-*   📷 **Instagram:** [@frontifycreative](https://instagram.com/frontifycreative_)
+🌐 **Live Website:** https://frontify-creative.vercel.app
 
 ---
-<div align="center">
-  <sub>Built with ❤️ by the Frontify Creative Team.</sub>
-</div>
+
+## ✨ Features
+
+Berikut beberapa fitur utama yang tersedia di Frontify Creative:
+
+### 1. Modern Landing Page
+- Tampilan website modern dengan identitas visual yang khas.
+- Hero section dengan headline dan CTA interaktif.
+- Desain responsif untuk desktop, tablet, dan mobile.
+- Navigasi antarbagian website yang mudah digunakan.
+
+### 2. Portfolio & Showcase
+- Menampilkan berbagai karya dan proyek kreatif.
+- Featured Collaborations untuk proyek kolaborasi nyata.
+- Concept & Experimental Works untuk eksplorasi desain.
+- Menampilkan deskripsi dan informasi setiap proyek.
+
+### 3. Our Services
+Menyediakan enam kategori layanan utama:
+
+- Website Development
+- UI/UX Design
+- Landing Page Design
+- Web Application
+- Brand Identity
+- Digital Creative & Consultation
+
+Setiap layanan memiliki informasi dan detail yang dapat dibuka melalui tombol **Lihat Detail**.
+
+### 4. Creative Network
+Menampilkan jaringan kolaborator yang pernah bekerja sama dengan Frontify Creative, termasuk anggota tim dari proyek kolaborasi.
+
+### 5. About & Creative Team
+Memperkenalkan identitas studio, filosofi Code. Create. Inspire., serta bidang keahlian tim:
+- Frontend Development
+- Backend Development
+- Full-Stack Development
+
+### 6. Project Brief Generator
+Salah satu fitur utama website ini adalah formulir brief proyek interaktif dengan lima tahapan:
+
+1. **Business** — Mengisi nama bisnis, bidang usaha, dan cerita singkat.
+2. **Services** — Memilih layanan yang dibutuhkan.
+3. **Features** — Memilih fitur website yang diinginkan.
+4. **Budget** — Menentukan kisaran anggaran proyek.
+5. **Contact** — Mengisi informasi kontak dan target pengerjaan.
+
+Setelah selesai, pengunjung dapat melihat ringkasan brief dan mengirimkannya melalui WhatsApp atau Email.
+
+### 7. FAQ Section
+Menyediakan informasi seputar:
+- Biaya pembuatan website.
+- Estimasi waktu pengerjaan.
+- Kebijakan revisi.
+- Domain dan hosting.
+- Pengelolaan website.
+- Layanan maintenance.
+
+### 8. Contact & Social Media
+Pengunjung dapat menghubungi Frontify Creative melalui:
+- WhatsApp
+- Email
+- Instagram
+- TikTok
+- Telegram
+
+### 9. Interactive User Experience
+- Navigasi berbasis section.
+- Expandable service details.
+- FAQ interaktif.
+- Formulir brief bertahap.
+- Tombol navigasi kembali ke atas.
+- CTA untuk konsultasi dan komunikasi langsung.
+
+---
+
+## 🚀 How to Access Features
+
+Berikut panduan untuk mengakses fitur-fitur yang tersedia:
+
+| Fitur | Cara Mengakses |
+|---|---|
+| Home | Buka website atau klik logo Frontify Creative. |
+| Portfolio | Klik menu **Karya** pada navigasi. |
+| Services | Klik menu **Layanan**, kemudian pilih Lihat Detail. |
+| Creative Network | Klik menu **Jaringan**. |
+| About | Klik menu **Tentang**. |
+| FAQ | Klik menu **FAQ**, lalu pilih pertanyaan. |
+| Project Brief | Klik tombol **Ceritakan Idemu** atau CTA konsultasi. |
+| Contact | Klik tombol **Ngobrol Yuk** atau bagian kontak. |
+| Social Media | Akses tautan sosial media di bagian footer. |
+
+### How to Submit a Project Brief
+
+1. Buka website Frontify Creative.
+2. Klik tombol **Ceritakan Idemu**.
+3. Isi informasi bisnis pada langkah pertama.
+4. Pilih layanan yang dibutuhkan.
+5. Tentukan fitur yang ingin ditambahkan.
+6. Pilih kisaran budget.
+7. Masukkan nama dan informasi kontak.
+8. Periksa ringkasan brief yang dihasilkan.
+9. Pilih **Kirim lewat WhatsApp** atau **Kirim lewat Email**.
+
+Setelah itu, informasi brief akan disiapkan sebagai pesan untuk dikirim melalui aplikasi yang dipilih.
+
+---
+
+## 📸 Live Preview
+
+Kunjungi website untuk melihat keseluruhan desain, navigasi, portofolio, dan fitur interaktif secara langsung.
+
+**[Visit Frontify Creative](https://frontify-creative.vercel.app)**
+
+---
+
+## 🔒 Privacy & Data Handling
+
+Formulir brief pada website ini menyusun informasi yang dimasukkan pengunjung menjadi pesan yang dapat dikirim melalui WhatsApp atau Email.
+
+Website menyatakan bahwa informasi tersebut tidak disimpan di server situs.
+
+---
+
+## 🎯 Project Goals
+
+Frontify Creative dikembangkan dengan beberapa tujuan:
+
+- Membangun identitas digital sebuah creative studio.
+- Menampilkan portfolio dan hasil eksplorasi kreatif.
+- Memperkenalkan layanan pengembangan digital.
+- Mempermudah calon klien menyampaikan kebutuhan proyek.
+- Menghadirkan pengalaman pengguna yang intuitif dan responsif.
+
+---
+
+## 👨‍💻 Developer & Creative Studio
+
+**Frontify Creative**
+
+*Code. Create. Inspire.*
+
+- Website: https://frontify-creative.vercel.app
+- Email: frontify.creative@gmail.com
+- Instagram: [@frontifycreative_](https://www.instagram.com/frontifycreative_/)
+- TikTok: [@frontifycreative_](https://www.tiktok.com/@frontifycreative_)
+- Telegram: [Contact Us](https://t.me/)
+
+---
+
+<p align="center">
+  <strong>Made with creativity by Frontify Creative.</strong>
+  <br>
+  Code. Create. Inspire.
+</p>
