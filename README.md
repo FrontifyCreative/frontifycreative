@@ -4,7 +4,7 @@
 
 <h1 align="center">Frontify Creative</h1>
 
-# ✳ Frontify Creative — Creative Digital Studio
+# Frontify Creative - Creative Digital Studio
 
 **Code. Create. Inspire.**
 
@@ -161,7 +161,7 @@ Frontify Creative dikembangkan dengan beberapa tujuan:
 - Email: frontify.creative@gmail.com
 - Instagram: [@frontifycreative_](https://www.instagram.com/frontifycreative_/)
 - TikTok: [@frontifycreative_](https://www.tiktok.com/@frontifycreative_)
-- Telegram: [Contact Us](https://t.me/)
+- Telegram: [frontifycreative](https://t.me/frontifycreative)
 
 ---
 
