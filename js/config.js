@@ -16,7 +16,7 @@ export const CONFIG = {
 
   social: {
     instagram: "https://www.instagram.com/frontifycreative_/",
-    tiktok: "https://www.tiktok.com/@frontifycreative_/",
+    tiktok: "https://www.tiktok.com/@frontifycreative?_r=1&_t=ZS-9BkwAMK8bJd",
     telegram: "https://t.me/frontifycreative",
   },
 };
